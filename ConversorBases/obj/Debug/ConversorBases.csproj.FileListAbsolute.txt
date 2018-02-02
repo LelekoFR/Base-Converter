@@ -1,0 +1,13 @@
+C:\Users\leona\Desktop\Engenharia Da Computação\4° Periodo\Lab. De Banco de Dados\ConversorBases\ConversorBases\bin\Debug\ConversorBases.exe.config
+C:\Users\leona\Desktop\Engenharia Da Computação\4° Periodo\Lab. De Banco de Dados\ConversorBases\ConversorBases\bin\Debug\ConversorBases.exe
+C:\Users\leona\Desktop\Engenharia Da Computação\4° Periodo\Lab. De Banco de Dados\ConversorBases\ConversorBases\bin\Debug\ConversorBases.pdb
+C:\Users\leona\Desktop\Engenharia Da Computação\4° Periodo\Lab. De Banco de Dados\ConversorBases\ConversorBases\obj\Debug\ConversorBases.csprojResolveAssemblyReference.cache
+C:\Users\leona\Desktop\Engenharia Da Computação\4° Periodo\Lab. De Banco de Dados\ConversorBases\ConversorBases\obj\Debug\ConversorBases.Form1.resources
+C:\Users\leona\Desktop\Engenharia Da Computação\4° Periodo\Lab. De Banco de Dados\ConversorBases\ConversorBases\obj\Debug\ConversorBases.Properties.Resources.resources
+C:\Users\leona\Desktop\Engenharia Da Computação\4° Periodo\Lab. De Banco de Dados\ConversorBases\ConversorBases\obj\Debug\ConversorBases.csproj.GenerateResource.Cache
+C:\Users\leona\Desktop\Engenharia Da Computação\4° Periodo\Lab. De Banco de Dados\ConversorBases\ConversorBases\obj\Debug\ConversorBases.exe
+C:\Users\leona\Desktop\Engenharia Da Computação\4° Periodo\Lab. De Banco de Dados\ConversorBases\ConversorBases\obj\Debug\ConversorBases.pdb
+C:\Users\leona\Desktop\Engenharia Da Computação\4° Periodo\Lab. De Banco de Dados\ConversorBases\ConversorBases\bin\Debug\ConversorBases.exe.manifest
+C:\Users\leona\Desktop\Engenharia Da Computação\4° Periodo\Lab. De Banco de Dados\ConversorBases\ConversorBases\bin\Debug\ConversorBases.application
+C:\Users\leona\Desktop\Engenharia Da Computação\4° Periodo\Lab. De Banco de Dados\ConversorBases\ConversorBases\obj\Debug\ConversorBases.exe.manifest
+C:\Users\leona\Desktop\Engenharia Da Computação\4° Periodo\Lab. De Banco de Dados\ConversorBases\ConversorBases\obj\Debug\ConversorBases.application
